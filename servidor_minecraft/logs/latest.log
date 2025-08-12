@@ -1,0 +1,48 @@
+[04:00:38] [main/INFO]: Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
+[04:00:38] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.6
+[04:00:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Eldritch-MoonHaven/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:00:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:00:44] [main/INFO]: No existing world data, creating new world
+[04:00:45] [main/INFO]: Loaded 1407 recipes
+[04:00:45] [main/INFO]: Loaded 1520 advancements
+[04:00:45] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[04:00:45] [Server thread/INFO]: Loading properties
+[04:00:45] [Server thread/INFO]: Default game type: SURVIVAL
+[04:00:45] [Server thread/INFO]: Generating keypair
+[04:00:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:00:45] [Server thread/INFO]: Using epoll channel type
+[04:00:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:00:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:00:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:00:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:00:45] [Server thread/INFO]: Preparing level "world"
+[04:00:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:00:51] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[04:00:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:00:52] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[04:00:53] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[04:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[04:00:54] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[04:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[04:00:55] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[04:00:55] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[04:00:56] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[04:00:56] [Server thread/INFO]: Time elapsed: 4575 ms
+[04:00:56] [Server thread/INFO]: Done (10.380s)! For help, type "help"
+[04:00:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:00:56] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/Eldritch-MoonHaven/msx.py<--[HERE]
+[04:01:04] [Server thread/INFO]: Stopping the server
+[04:01:05] [Server thread/INFO]: Stopping server
+[04:01:05] [Server thread/INFO]: Saving players
+[04:01:05] [Server thread/INFO]: Saving worlds
+[04:01:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:01:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:01:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
